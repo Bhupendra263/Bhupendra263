@@ -1,16 +1,32 @@
-## Hi there 👋
+Hello! 👋
 
-<!--
-**Bhupendra263/Bhupendra263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a Web Developer passionate about creating user-friendly and efficient web applications.
 
-Here are some ideas to get you started:
+  🌟 About Me
+  
+- 🌱 Currently diving deeper into the MERN stack and front-end development.
+- 💻 Working on projects like Opportunity Sphere, an online job portal.
+- 🤔 Building my problem-solving skills day by day.
+- 🎯 My goal is to master full-stack development and contribute to open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠️ Skills & Tools
+
+  Front-End:
+- HTML, CSS, JavaScript
+- React.js, Redux
+- Bootstrap, Tailwind CSS
+
+  Back-End:
+- Node.js, Express.js
+- MongoDB
+
+  Tools:
+- Git & GitHub
+- Visual Studio Code
+
+
+
+  📬 Let's Connect
+- 📧 Email: bhupendraprataps997@gmail.com
+- 💼 LinkedIn: https://rb.gy/kwmp81
