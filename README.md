@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a Web Developer passionate about creating user-friendl
   🌟 About Me
   
 - 🌱 Currently diving deeper into the MERN stack and front-end development.
-- 💻 Working on projects like Opportunity Sphere, an online job portal.
+  
 - 🤔 Building my problem-solving skills day by day.
 - 🎯 My goal is to master full-stack development and contribute to open-source projects.
 
