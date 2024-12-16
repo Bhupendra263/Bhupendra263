@@ -27,6 +27,4 @@ Welcome to my GitHub! I'm a Web Developer passionate about creating user-friendl
 
 
 
-  📬 Let's Connect
-- 📧 Email: bhupendraprataps997@gmail.com
-- 💼 LinkedIn: https://rb.gy/kwmp81
+
