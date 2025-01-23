@@ -27,7 +27,8 @@ Welcome to my GitHub! I'm a Web Developer passionate about creating user-friendl
 
 
 Connect with Me
--Email: bhupendraprataps997@gmail.com
+
+- Email: bhupendraprataps997@gmail.com
 
 - GitHub: [https://github.com/Bhupendra263]
 - 
