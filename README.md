@@ -1,8 +1,7 @@
 Hello! 👋
 
 
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/8a5c7fbf-a71b-41fc-866c-57e343ef00a4)
 
 
 
@@ -37,8 +36,6 @@ Connect with Me
 
 - Email: bhupendraprataps997@gmail.com
 
-- GitHub: [https://github.com/Bhupendra263]
- 
 - LinkedIn: [https://www.linkedin.com/in/bhupendra-pratap-singh-54ab03212]
 
 - Portfolio: [https://bhupendra-portfolio123321.netlify.app/]
