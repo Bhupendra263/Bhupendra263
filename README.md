@@ -1,5 +1,6 @@
 Hello! 👋
-https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=790b7611yi107n8glrbj12f21sho992jd21i16i544p3twog&ep=v1_gifs_search&rid=200.webp&ct=g
+![image](https://github.com/user-attachments/assets/e1a6a325-5e66-4d29-aac7-d5659ca0189e)
+
 
 Welcome to my GitHub! I'm a Web Developer passionate about creating user-friendly and efficient web applications.
 
