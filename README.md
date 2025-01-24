@@ -39,6 +39,6 @@ Connect with Me
 - LinkedIn: [https://www.linkedin.com/in/bhupendra-pratap-singh-54ab03212]
 
 - Portfolio: [https://bhupendra-portfolio123321.netlify.app/]
-
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Bhupendra263e=yourusername&layout=compact)
+- 
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhupendra)](https://github.com/Bhupendra263/github-readme-stats)
 
