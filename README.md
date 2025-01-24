@@ -40,5 +40,5 @@ Connect with Me
 
 - Portfolio: [https://bhupendra-portfolio123321.netlify.app/]
 
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Bhupendra263e=yourusername&layout=compact)
 
