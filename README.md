@@ -61,6 +61,6 @@ Connect with Me
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhupendra263&show_icons=true&theme=default)](https://github.com/Bhupendra263/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupendra263&layout=compact))](https://github.com/Bhupendra263/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupendra263&layout=compact)](https://github.com/Bhupendra263/github-readme-stats)
 
 
