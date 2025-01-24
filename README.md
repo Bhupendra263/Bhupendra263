@@ -38,7 +38,7 @@ Connect with Me
 
 - LinkedIn:https://www.linkedin.com/in/bhupendra-pratap-singh-54ab03212
 
-- Portfolio: [https://bhupendra-portfolio123321.netlify.app/]
+- Portfolio: https://bhupendra-portfolio123321.netlify.app/
 
  Languages and Tools
 
