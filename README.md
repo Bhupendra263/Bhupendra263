@@ -36,7 +36,7 @@ Connect with Me
 
 - Email: bhupendraprataps997@gmail.com
 
-- LinkedIn: [https://www.linkedin.com/in/bhupendra-pratap-singh-54ab03212]
+- LinkedIn:https://www.linkedin.com/in/bhupendra-pratap-singh-54ab03212
 
 - Portfolio: [https://bhupendra-portfolio123321.netlify.app/]
 
