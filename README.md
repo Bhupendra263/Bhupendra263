@@ -69,7 +69,8 @@ Connect with Me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupendra263&layout=compact)](https://github.com/Bhupendra263/github-readme-stats)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Bhupendra263.Bhupendra263)
+![Total Views](https://komarev.com/ghpvc/?username=Bhupendra263e&color=blue&style=flat)
+
 
 
 
